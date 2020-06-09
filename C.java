@@ -22,4 +22,7 @@ public class C{
     public String MC2(){
         return "Método C2";
     }
+    public void MC3(){
+        System.out.println("Método C3");
+    }
 }
