@@ -22,4 +22,7 @@ public class A {
     public String MA2(){
         return "Método A2";
     }
+    public void MA3(){
+        System.out.println("Alteração da classe A a partir do clone.");
+    }
 }
