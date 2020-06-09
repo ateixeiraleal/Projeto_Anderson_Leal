@@ -22,4 +22,7 @@ public class B {
     public String MB2(){
         return "Método B2";
     }
+    public void MB3(){
+        System.out.println("Método B3");
+    }
 }
