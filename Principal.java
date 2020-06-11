@@ -3,6 +3,7 @@ public class Principal {
         A a = new A();
         B b = new B();
         C c = new C();
+        D d = new D();
         
         System.out.println(a.MA1());
         System.out.println(a.MA2());
@@ -11,5 +12,8 @@ public class Principal {
         a.MA3();
         System.out.println(c.MC1());
         System.out.println(c.MC2());
+        d.MD1();
+        d.MD2();
+        d.MD3();
     }
 }
